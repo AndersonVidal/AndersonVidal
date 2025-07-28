@@ -1,4 +1,5 @@
-# 👋 Olá! Eu sou o Anderson Vidal  
+
+[![](https://raw.githubusercontent.com/AndersonVidal/AndersonVidal/master/space1.gif)](https://www.linkedin.com/in/anderson-vasconcelos-6aa74015a/)# 👋 Olá! Eu sou o Anderson Vidal  
 
 💻 **Computer Scientist & Backend Developer**  
 Atualmente focado em **Laravel, Golang e Python** com experiência em arquiteturas escaláveis, microsserviços e sistemas financeiros.
@@ -13,21 +14,6 @@ Atualmente focado em **Laravel, Golang e Python** com experiência em arquitetur
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## 🌟 Projetos em Destaque
-
-...Em construcao
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonVidal&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonVidal&layout=compact&theme=dracula)
-
----
 
 ## 📫 Onde me encontrar
 

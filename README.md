@@ -6,7 +6,7 @@
 
 # 👋 Olá! Eu sou o Anderson Vidal  
 
-💻 **Computer Scientist & Backend Developer**  
+## 💻 **Computer Scientist & Backend Developer**  
 Atualmente focado em **Laravel, Golang e Python** com experiência em arquiteturas escaláveis, microsserviços e sistemas financeiros.
 
 ---

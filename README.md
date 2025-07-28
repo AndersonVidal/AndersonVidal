@@ -1,5 +1,10 @@
+<div align="center">
+  <a href="https://www.linkedin.com/in/anderson-vasconcelos-6aa74015a/">
+    <img src="https://raw.githubusercontent.com/AndersonVidal/AndersonVidal/master/space1.gif" alt="Anderson Vidal" />
+  </a>
+</div>
 
-[![](https://raw.githubusercontent.com/AndersonVidal/AndersonVidal/master/space1.gif)](https://www.linkedin.com/in/anderson-vasconcelos-6aa74015a/)# 👋 Olá! Eu sou o Anderson Vidal  
+# 👋 Olá! Eu sou o Anderson Vidal  
 
 💻 **Computer Scientist & Backend Developer**  
 Atualmente focado em **Laravel, Golang e Python** com experiência em arquiteturas escaláveis, microsserviços e sistemas financeiros.

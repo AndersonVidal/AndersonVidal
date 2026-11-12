@@ -4,33 +4,33 @@
 
 # Hey, I'm Anderson.
 
-**Senior Software Engineer** · Based in Brazil
+**Senior Software Engineer** · Brazil
 
 I build reliable software and enjoy understanding complex systems.
 
-I'm a software engineer with **8+ years of experience** designing, evolving, and securing applications. My work centers on **backend architecture, transactional integrity, distributed systems, and application security**. I've also worked as a technical lead, helping teams make sound engineering decisions through architecture discussions, code reviews, and mentoring.
+I'm a software engineer with **8+ years of experience** building, evolving, and securing applications. My focus is on **backend architecture, transactional integrity, distributed systems, and application security**. I've also worked as a technical lead, supporting engineering decisions through architecture reviews, code reviews, and mentoring.
 
-Outside of software, I'm curious about **astronomy, physics, and artificial intelligence** — different ways of asking better questions about complex systems.
+### Engineering focus
 
-### What I work with
+| | |
+| :--- | :--- |
+| **System architecture** | Designing maintainable systems and making pragmatic technical trade-offs. |
+| **Backend engineering** | Building APIs, integrations, and transaction-sensitive workflows. |
+| **Reliability & security** | Thinking through concurrency, failure modes, data integrity, and secure design. |
+| **Technical leadership** | Reviewing designs, sharing knowledge, and helping teams grow. |
 
-**Backend:** PHP · Laravel · Java · Spring Boot · Python  
-**Frontend:** Vue.js · React · Angular · TypeScript  
-**Data & infrastructure:** MySQL · PostgreSQL · Redis · AWS · Docker · GitLab CI/CD
+### Tech stack
 
-### What matters to me
+**Backend** &nbsp; `PHP` · `Laravel` · `Java` · `Spring Boot` · `Python`  
+**Frontend** &nbsp; `TypeScript` · `Vue.js` · `React` · `Angular`  
+**Data & infrastructure** &nbsp; `PostgreSQL` · `MySQL` · `Redis` · `AWS` · `Docker` · `GitLab CI/CD`
 
-- Building systems that remain correct under concurrency and failure.
-- Making thoughtful trade-offs between simplicity, performance, and maintainability.
-- Treating security and reliability as engineering fundamentals.
-- Sharing knowledge and helping teams grow.
+### Beyond code
 
-### Currently exploring
+I'm curious about **astronomy, physics, and artificial intelligence** — different ways of exploring complex systems and asking better questions.
 
-AI Engineering, retrieval-augmented generation (RAG), and the practical use of intelligent systems in software development.
+Currently exploring **AI engineering**, retrieval-augmented generation (RAG), and practical applications of intelligent systems in software development.
 
-### Find me
-
-[GitHub](https://github.com/AndersonVidal) · [Repositories](https://github.com/AndersonVidal?tab=repositories)
+---
 
 <sub><i>Exploring complexity. Engineering reliability.</i></sub>

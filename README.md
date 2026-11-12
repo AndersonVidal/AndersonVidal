@@ -1,10 +1,6 @@
-<div align="right">
-  <img
-    src="./assets/insight-book.svg"
-    alt="Insight — knowledge and discovery"
-    width="64"
-  />
-</div>
+<p align="center">
+  <img src="./assets/banner.png" alt="Anderson Vidal — Software Engineer" width="100%" />
+</p>
 
 # Hey, I'm Anderson.
 

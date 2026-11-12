@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c111a"/><stop offset=".58" stop-color="#101c2c"/><stop offset="1" stop-color="#111c2e"/></linearGradient>
+ <linearGradient id="horizon" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#c4d6ed" stop-opacity=".9"/><stop offset=".23" stop-color="#7d99b8" stop-opacity=".4"/><stop offset="1" stop-color="#14233a" stop-opacity=".08"/></linearGradient>
+ <clipPath id="frame"><rect width="1200" height="180" rx="8"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="180" fill="url(#bg)"/>
+<circle cx="639" cy="146" r="0.6" fill="#c2d3ed" opacity="0.35"/>
+<circle cx="791" cy="86" r="1.1" fill="#c2d3ed" opacity="0.15"/>
+<circle cx="990" cy="89" r="0.8" fill="#c2d3ed" opacity="0.5"/>
+<circle cx="933" cy="42" r="0.8" fill="#c2d3ed" opacity="0.23"/>
+<circle cx="853" cy="103" r="0.8" fill="#c2d3ed" opacity="0.35"/>
+<circle cx="1177" cy="144" r="0.6" fill="#c2d3ed" opacity="0.23"/>
+<circle cx="1094" cy="82" r="0.6" fill="#c2d3ed" opacity="0.15"/>
+<circle cx="601" cy="43" r="1.1" fill="#c2d3ed" opacity="0.35"/>
+<circle cx="558" cy="33" r="0.8" fill="#c2d3ed" opacity="0.23"/>
+<circle cx="921" cy="115" r="1.1" fill="#c2d3ed" opacity="0.5"/>
+<circle cx="1152" cy="36" r="1.1" fill="#c2d3ed" opacity="0.15"/>
+<circle cx="1122" cy="162" r="1.1" fill="#c2d3ed" opacity="0.35"/>
+<circle cx="715" cy="36" r="1.1" fill="#c2d3ed" opacity="0.5"/>
+<circle cx="1056" cy="61" r="0.8" fill="#c2d3ed" opacity="0.5"/>
+<circle cx="1169" cy="67" r="0.8" fill="#c2d3ed" opacity="0.35"/>
+<circle cx="1042" cy="77" r="0.6" fill="#c2d3ed" opacity="0.15"/>
+<circle cx="621" cy="83" r="0.8" fill="#c2d3ed" opacity="0.15"/>
+<circle cx="558" cy="53" r="1.1" fill="#c2d3ed" opacity="0.5"/>
+<circle cx="646" cy="146" r="1.1" fill="#c2d3ed" opacity="0.15"/>
+<circle cx="965" cy="134" r="1.1" fill="#c2d3ed" opacity="0.23"/>
+<circle cx="1077" cy="110" r="0.8" fill="#c2d3ed" opacity="0.35"/>
+<circle cx="1026" cy="129" r="0.8" fill="#c2d3ed" opacity="0.5"/>
+<circle cx="1139" cy="36" r="0.8" fill="#c2d3ed" opacity="0.5"/>
+<circle cx="933" cy="72" r="0.8" fill="#c2d3ed" opacity="0.5"/>
+<circle cx="598" cy="157" r="0.6" fill="#c2d3ed" opacity="0.5"/>
+<circle cx="803" cy="158" r="0.8" fill="#c2d3ed" opacity="0.15"/>
+<circle cx="945" cy="120" r="0.6" fill="#c2d3ed" opacity="0.35"/>
+<circle cx="1113" cy="106" r="0.8" fill="#c2d3ed" opacity="0.35"/>
+<circle cx="894" cy="89" r="1.1" fill="#c2d3ed" opacity="0.23"/>
+<circle cx="573" cy="155" r="0.8" fill="#c2d3ed" opacity="0.35"/>
+<circle cx="627" cy="111" r="0.6" fill="#c2d3ed" opacity="0.15"/>
+<circle cx="727" cy="91" r="0.6" fill="#c2d3ed" opacity="0.15"/>
+<circle cx="1130" cy="141" r="0.8" fill="#c2d3ed" opacity="0.35"/>
+<circle cx="787" cy="41" r="0.6" fill="#c2d3ed" opacity="0.23"/>
+<circle cx="733" cy="12" r="0.6" fill="#c2d3ed" opacity="0.35"/>
+<circle cx="1042" cy="79" r="0.6" fill="#c2d3ed" opacity="0.23"/>
+<circle cx="742" cy="96" r="0.8" fill="#c2d3ed" opacity="0.35"/>
+<circle cx="562" cy="155" r="1.1" fill="#c2d3ed" opacity="0.23"/>
+<path d="M680 180 Q930 56 1250 88" stroke="#7890ab" opacity=".18" fill="none" stroke-width="1"/>
+<path d="M812 180 Q980 91 1228 89 L1228 270 L812 270Z" fill="url(#horizon)" opacity=".45"/>
+<path d="M812 180 Q980 91 1228 89" stroke="#9cb6d1" opacity=".6" fill="none" stroke-width="1.8"/>
+<circle cx="1027" cy="32" r="12" fill="#8197b1" opacity=".28"/>
+<circle cx="1031" cy="29" r="11" fill="#101a2a"/>
+<g transform="translate(33 24) scale(1.03)"><g fill="#F2F4F7">
+    <!-- Exclamation: faceted tapered stroke and diamond dot -->
+    <path d="M62 11 77 5 67 53 63 53Z"/>
+    <path d="m64 58 5 5-5 5-5-5Z"/>
+    <!-- Book upper edge: open angular volume in isometric perspective -->
+    <path fill-rule="evenodd" d="M16 70 57 54 64 62 72 54 113 70 64 95Z M26 71 64 88 103 71 74 60 64 68 54 60Z"/>
+    <!-- Left page block, with side depth -->
+    <path d="M16 70 16 88 46 102 46 96 21 85 21 75Z"/>
+    <!-- Right page block: two fine parallel strokes -->
+    <path d="M64 95 113 70 113 76 64 101Z"/>
+    <path d="M64 105 113 80 113 85 64 111Z"/>
+    <!-- Lower binding and bookmark -->
+    <path d="M46 96 53 99 53 117 47 112 41 114 41 94Z"/>
+    <path d="M53 104 64 111 64 116 53 110Z"/>
+  </g></g>
+<path d="M183 43 V137" stroke="#64748b" stroke-width="1" opacity=".6"/>
+<text x="219" y="81" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="500" letter-spacing="7" fill="#f2f4f7">ANDERSON VIDAL</text>
+<text x="221" y="115" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="5.1" fill="#a5b5c9">SOFTWARE ENGINEER</text>
+</g></svg>

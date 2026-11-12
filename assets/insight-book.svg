@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Insight — Isometric Book</title>
+  <desc id="desc">Angular isometric book with a geometric exclamation mark, symbolizing discovery and knowledge.</desc>
+  <!-- Transparent background; monochrome shapes suitable for dark themes. -->
+  <g fill="#F2F4F7">
+    <!-- Exclamation: faceted tapered stroke and diamond dot -->
+    <path d="M62 11 77 5 67 53 63 53Z"/>
+    <path d="m64 58 5 5-5 5-5-5Z"/>
+    <!-- Book upper edge: open angular volume in isometric perspective -->
+    <path fill-rule="evenodd" d="M16 70 57 54 64 62 72 54 113 70 64 95Z M26 71 64 88 103 71 74 60 64 68 54 60Z"/>
+    <!-- Left page block, with side depth -->
+    <path d="M16 70 16 88 46 102 46 96 21 85 21 75Z"/>
+    <!-- Right page block: two fine parallel strokes -->
+    <path d="M64 95 113 70 113 76 64 101Z"/>
+    <path d="M64 105 113 80 113 85 64 111Z"/>
+    <!-- Lower binding and bookmark -->
+    <path d="M46 96 53 99 53 117 47 112 41 114 41 94Z"/>
+    <path d="M53 104 64 111 64 116 53 110Z"/>
+  </g>
+</svg>
